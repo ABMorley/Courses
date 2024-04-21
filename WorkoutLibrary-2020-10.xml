@@ -1,0 +1,243 @@
+<WorkoutLibrary xmlns="http://schemas.datacontract.org/2004/07/PerformancePhones.CrewNerd"
+    xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <WorkoutList xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <a:anyType i:type="JustRowProvider"/>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>970</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>3600</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>600</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>1800</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>2300</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>1100</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>450</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>470</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>500</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>1000</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>1600</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>22500</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>1955</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>2000</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>2600</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>2900</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>5000</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>10000</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>120</WorkDuration>
+            <WorkType>Time</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>300</WorkDuration>
+            <WorkType>Time</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>600</WorkDuration>
+            <WorkType>Time</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>900</WorkDuration>
+            <WorkType>Time</WorkType>
+        </a:anyType>
+        <a:anyType i:type="SingleProvider">
+            <WorkDuration>1800</WorkDuration>
+            <WorkType>Time</WorkType>
+        </a:anyType>
+        <a:anyType i:type="IntervalProvider">
+            <RestTime>180</RestTime>
+            <WorkDuration>500</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="IntervalProvider">
+            <RestTime>300</RestTime>
+            <WorkDuration>1000</WorkDuration>
+            <WorkType>Distance</WorkType>
+        </a:anyType>
+        <a:anyType i:type="IntervalProvider">
+            <RestTime>30</RestTime>
+            <WorkDuration>20</WorkDuration>
+            <WorkType>Strokes</WorkType>
+        </a:anyType>
+        <a:anyType i:type="CustomProvider">
+            <Intervals>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>240</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>180</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>120</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>60</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+            </Intervals>
+            <Name>4-3-2-1</Name>
+        </a:anyType>
+        <a:anyType i:type="CustomProvider">
+            <Intervals>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>240</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>180</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>120</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>60</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>120</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>180</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>0</RestTime>
+                    <WorkDuration>240</WorkDuration>
+                    <WorkType>Time</WorkType>
+                </IntervalProvider>
+            </Intervals>
+            <Name>4-3-2-1-2-3-4</Name>
+        </a:anyType>
+        <a:anyType i:type="CustomProvider">
+            <Intervals>
+                <IntervalProvider>
+                    <RestTime>180</RestTime>
+                    <WorkDuration>250</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>180</RestTime>
+                    <WorkDuration>250</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>300</RestTime>
+                    <WorkDuration>500</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>180</RestTime>
+                    <WorkDuration>250</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>180</RestTime>
+                    <WorkDuration>250</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>300</RestTime>
+                    <WorkDuration>500</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>180</RestTime>
+                    <WorkDuration>250</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>180</RestTime>
+                    <WorkDuration>250</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>300</RestTime>
+                    <WorkDuration>500</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>180</RestTime>
+                    <WorkDuration>250</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>180</RestTime>
+                    <WorkDuration>250</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+                <IntervalProvider>
+                    <RestTime>300</RestTime>
+                    <WorkDuration>500</WorkDuration>
+                    <WorkType>Distance</WorkType>
+                </IntervalProvider>
+            </Intervals>
+            <Name>4 x (2 x (250m/3:00), 500m/5:00)</Name>
+        </a:anyType>
+    </WorkoutList>
+</WorkoutLibrary>

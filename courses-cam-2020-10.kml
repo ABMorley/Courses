@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>courses</name>
+	<Folder>
+		<name>Head of the Cam</name>
+		<description>Standard Cam head</description>
+		<description>The standard on-Cam race - held under different names throughout the year, sometimes with little variations. 2600m</description>
+		<Placemark>
+			<name>Start</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.1707975824784969,52.23222124243645,0 0.1714856371437201,52.23203655316092,0 0.1715273821921781,52.23227094514358,0 0.1709261886730706,52.23243690625191,0 0.1707975824784969,52.23222124243645,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Finish</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.1467177531912989,52.21743248126997,0 0.14720917044313,52.21754169613851,0 0.1468537006103809,52.21799055525103,0 0.1463465908046135,52.21788331045857,0 0.1467177531912989,52.21743248126997,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>Cantabs Winter Head</name>
+		<description>Cantabrigian Rowing Club Winter head course - normally held in November</description>
+		<Placemark>
+			<name>Start</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.1707975824784969,52.23222124243645,0 0.1714856371437201,52.23203655316092,0 0.1715273821921781,52.23227094514358,0 0.1709261886730706,52.23243690625191,0 0.1707975824784969,52.23222124243645,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Finish</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.148647390005674,52.21779569738229,0 0.149040537439542,52.21787955702021,0 0.1488006268975495,52.21827801364947,0 0.1484346593852148,52.21820225217878,0 0.148647390005674,52.21779569738229,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>H2H 1</name>
+		<description>City of Cambridge Head to head part one (downstream)</description>
+		<Placemark>
+			<name>Finish</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.1707975824784969,52.23222124243645,0 0.1714856371437201,52.23203655316092,0 0.1715273821921781,52.23227094514358,0 0.1709261886730706,52.23243690625191,0 0.1707975824784969,52.23222124243645,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Start</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.1565579147373919,52.22047621659327,0 0.1557181826447507,52.22033393997402,0 0.1555094235657672,52.21976164921762,0 0.1562549145721137,52.21988305057489,0 0.1565579147373919,52.22047621659327,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+	<Folder>
+		<name>H2H 2</name>
+		<open>1</open>
+		<description>City of Cambridge Head to head part two (upstream)</description>
+		<Placemark>
+			<name>Start</name>
+			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.1707975824784969,52.23222124243645,0 0.1714856371437201,52.23203655316092,0 0.1715273821921781,52.23227094514358,0 0.1709261886730706,52.23243690625191,0 0.1707975824784969,52.23222124243645,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Finish</name>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							0.1565579147373919,52.22047621659327,0 0.1557181826447507,52.22033393997402,0 0.1555094235657672,52.21976164921762,0 0.1562549145721137,52.21988305057489,0 0.1565579147373919,52.22047621659327,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
