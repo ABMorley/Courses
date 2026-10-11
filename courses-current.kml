@@ -817,6 +817,11 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
+							1.4070,52.6170,0 
+							1.4087,52.6165,0 
+							1.4087,52.6162,0 
+							1.4069,52.6167,0 
+							1.4070,52.6170,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -824,12 +829,17 @@
 		</Placemark>
 		<Placemark>
 			<name>Finish</name>
-			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
+							1.3423,52.6260,0
+							1.3413,52.6244,0 
+							1.3418,52.6243,0 
+							1.3429,52.6259,0 
+							1.3423,52.6260,0
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -847,6 +857,11 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
+							1.3300,52.6255,0
+							1.3317,52.6240,0 
+							1.3308,52.6237,0 
+							1.3290,52.6250,0 
+							1.3300,52.6255,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -860,6 +875,11 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
+							1.3686,52.6232,0 
+							1.3690,52.6229,0 
+							1.3713,52.6237,0 
+							1.3708,52.6240,0 
+							1.3686,52.6232,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -868,3 +888,43 @@
 	</Folder>
 </Document>
 </kml>
+	<Folder>
+		<name>Norwich long course reversed</name>
+		<description>Norwich long course</description>
+		<Placemark>
+			<name>Finish</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							1.4070,52.6170,0 
+							1.4087,52.6165,0 
+							1.4087,52.6162,0 
+							1.4069,52.6167,0 
+							1.4070,52.6170,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Start</name>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							1.3423,52.6260,0
+							1.3413,52.6244,0 
+							1.3418,52.6243,0 
+							1.3429,52.6259,0 
+							1.3423,52.6260,0
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
