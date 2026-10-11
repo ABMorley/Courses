@@ -624,7 +624,7 @@
 		<description>This is the full 4.2 mile championship course downstream for the Head of the River Race, Womens Head, Schools Head, Scullers Head, Fours Head, Pairs Head and Veteran Fours Head on the Thames Tideway in London. This course is also used for the Veterans Head when raced downstream.</description>
 		<Placemark>
 			<name>Start</name>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -682,7 +682,7 @@
 		<description>The standard on-Cam race - held under different names throughout the year, sometimes with little variations. 2600m</description>
 		<Placemark>
 			<name>Start</name>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -696,7 +696,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Finish</name>
-			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -714,7 +714,7 @@
 		<description>Cantabrigian Rowing Club Winter head course - normally held in November</description>
 		<Placemark>
 			<name>Start</name>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -728,7 +728,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Finish</name>
-			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -779,7 +779,7 @@
 		<description>City of Cambridge Head to head part two (upstream)</description>
 		<Placemark>
 			<name>Start</name>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -793,7 +793,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Finish</name>
-			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -811,7 +811,7 @@
 		<description>Norwich long course</description>
 		<Placemark>
 			<name>Start</name>
-			<styleUrl>#msn_ylw-pushpin1</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -886,8 +886,6 @@
 			</Polygon>
 		</Placemark>
 	</Folder>
-</Document>
-</kml>
 	<Folder>
 		<name>Norwich long course reversed</name>
 		<description>Norwich long course</description>
@@ -911,7 +909,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Start</name>
-			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
 			<Polygon>
 				<tessellate>1</tessellate>
 				<outerBoundaryIs>
@@ -928,3 +926,5 @@
 			</Polygon>
 		</Placemark>
 	</Folder>
+</Document>
+</kml>
