@@ -808,7 +808,7 @@
 	</Folder>
 	<Folder>
 		<name>Norwich long course</name>
-		<description>Norwich long course</description>
+		<description>Norwich long course 2026</description>
 		<Placemark>
 			<name>Start</name>
 			<styleUrl>#msn_ylw-pushpin</styleUrl>
@@ -817,11 +817,11 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							1.4070,52.6170,0 
-							1.4087,52.6165,0 
-							1.4087,52.6162,0 
-							1.4069,52.6167,0 
-							1.4070,52.6170,0 
+							1.4012354534445628, 52.61430518044878
+							1.4033847338060859, 52.61331206011093
+							1.4029596691911306, 52.61305605075239
+							1.4007838535626087, 52.61401299052938
+							1.4012354534445628, 52.61430518044878
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -835,11 +835,11 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							1.3423,52.6260,0
-							1.3413,52.6244,0 
-							1.3418,52.6243,0 
-							1.3429,52.6259,0 
-							1.3423,52.6260,0
+							1.3300,52.6255,0
+							1.3317,52.6240,0 
+							1.3308,52.6237,0 
+							1.3290,52.6250,0 
+							1.3300,52.6255,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -887,7 +887,7 @@
 		</Placemark>
 	</Folder>
 	<Folder>
-		<name>Norwich long course reversed</name>
+		<name>Norwich long course 2026 reversed</name>
 		<description>Norwich long course</description>
 		<Placemark>
 			<name>Finish</name>
@@ -897,11 +897,11 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							1.4070,52.6170,0 
-							1.4087,52.6165,0 
-							1.4087,52.6162,0 
-							1.4069,52.6167,0 
-							1.4070,52.6170,0 
+							1.4012354534445628, 52.61430518044878
+							1.4033847338060859, 52.61331206011093
+							1.4029596691911306, 52.61305605075239
+							1.4007838535626087, 52.61401299052938
+							1.4012354534445628, 52.61430518044878
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
@@ -915,11 +915,11 @@
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
-							1.3423,52.6260,0
-							1.3413,52.6244,0 
-							1.3418,52.6243,0 
-							1.3429,52.6259,0 
-							1.3423,52.6260,0
+							1.3300,52.6255,0
+							1.3317,52.6240,0 
+							1.3308,52.6237,0 
+							1.3290,52.6250,0 
+							1.3300,52.6255,0 
 						</coordinates>
 					</LinearRing>
 				</outerBoundaryIs>
